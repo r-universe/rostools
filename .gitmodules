@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "prodigenr"]
+	path = prodigenr
+	url = https://github.com/rostools/prodigenr
+	shallow = true
+	registered = true
