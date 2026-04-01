@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rostools/rostools.r-universe.dev
 	branch = HEAD
 [submodule "prodigenr"]
 	path = prodigenr
 	url = https://github.com/rostools/prodigenr
+[submodule "r3"]
+	path = r3
+	url = https://github.com/rostools/r3
